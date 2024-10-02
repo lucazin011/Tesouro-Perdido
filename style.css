@@ -1,0 +1,38 @@
+body {
+    font-family: "nerko one", cursive;
+    background-color: rgba(94, 7, 255, 0.993);
+    color: rgb(247, 57, 9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0px;
+    font-size: 30px;
+}
+
+button {
+    font-family: "nerko one", cursive;
+    background-color: rgba(0, 255, 255, 0.027);
+    color: rgb(251, 251, 255);
+    font-size: 20px;
+}
+
+.passo {
+    display: none;
+
+}
+
+.passo.ativo {
+    display: block;
+}
+
+main {
+    text-align: center;
+    max-width:90%;
+
+}
+img{
+    height:500px;
+    width:800px;
+
+}
